@@ -11,7 +11,7 @@ This repo is still in progress. This is a collection for all you might need to b
 # 
 # The goal of this notebook is to act as quick revision for all you learn for 
 # your ocding interviews. 
-# NOTE: Email your suggestions to __howalsagar92@gmail.com__
+# NOTE: Email your suggestions to __howalsagar92 (at) gmail (dot) (com of course)__
 
 
 # Table of Contents
