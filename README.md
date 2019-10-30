@@ -1,7 +1,4 @@
 # Interview-Preparation
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg (https://colab.research.google.com/github/sagarhowal/Interview-Preparation/blob/master/DataStructures_Algorithms.ipynb]
-
 This repo is still in progress. This is a collection for all you might need to brush up on your Coding Interview for a Software Engineer Job skills
 
 
